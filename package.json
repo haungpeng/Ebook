@@ -1,0 +1,28 @@
+{
+"name": "Ebook",
+    "version": "1.0.0",
+      "description": "在线电子书",
+        "main": "index.js",
+        "scripts": {
+              "test": "echo \"Error: no test specified\" && exit 0"
+                  
+        },
+        "repository": {
+              "type": "git",
+                  "url": "git+https://github.com/haungpeng/Ebook.git"
+                      
+        },
+          "author": "haungpeng",
+            "license": "MIT",
+            "bugs": {
+                  "url": "https://github.com/haungpeng/Ebook/issues"
+                      
+            },
+              "homepage": "https://github.com/haungpeng/Ebook#readme",
+              "devDependencies": {
+                        "gitbook-cli": "^2.3.2"
+                                      
+                            
+              }
+}
+
